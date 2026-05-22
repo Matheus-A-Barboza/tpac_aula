@@ -5,7 +5,7 @@ from ui.utils import exibir_cabecalho
 def executar_sistema():
     while True:
         dados = carregar_dados()
-        exibir_cabecalho("SISTEMA TPAC ACESSIBLE")
+        exibir_cabecalho("SISTEMA TPAC ACESSIBLEE!")
         print("1. Entrar com perfil existente")
         print("2. Criar novo perfil customizado")
         print("3. Encerrar")
