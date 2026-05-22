@@ -1,0 +1,28 @@
+{
+    "Matheus": {
+        "preferencias": {
+            "estilo_instrucao": "direto"
+        },
+        "tarefas_diarias": [
+            {
+                "titulo": "Arrumar a Casa",
+                "concluida": true,
+                "passos": [
+                    {
+                        "texto": "Organizar o espaço de trabalho retirando distrações visuais.",
+                        "concluido": false
+                    },
+                    {
+                        "texto": "Executar a primeira metade da atividade por 15 minutos.",
+                        "concluido": false
+                    },
+                    {
+                        "texto": "Fazer uma pausa de 5 minutos em silêncio absoluto.",
+                        "concluido": false
+                    }
+                ]
+            }
+        ],
+        "tarefas_educacionais": []
+    }
+}
